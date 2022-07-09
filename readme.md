@@ -10,7 +10,7 @@
   <a href="mailto:pre0919@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pre0919@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> 
   <a href="https://kkookkss.notion.site/kkookkss/kkookkss-devlog-43f8ed281edd4a0e9700603136a3ab42" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=github&logoColor=white"></a>
   
-<!--   <br>
+  <!-- <br>
   
   ## 🛠 Tech Stack
   <img src="https://img.shields.io/badge/PYTHON-3670A0?style=flat-square&logo=python&logoColor=white"/>
@@ -31,9 +31,9 @@
   <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   
   <br>
-  <br>
+  <br> -->
   
-  ## 🐈‍⬛ My GitHub Stats -->
+  <!-- ## 🐈‍⬛ My GitHub Stats -->
   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkookkss&show_icons=true&title_color=24130f&bg_color=fdeed9&icon_color=24130f&hide=issues) -->
   
   <!-- [Top langs] -->
